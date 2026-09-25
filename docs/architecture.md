@@ -7,7 +7,7 @@
 ## 1. リポジトリ構成
 
 ```
-tk-canvas/
+tk-designer/
 ├─ packages/
 │  ├─ core/        DSL の型・JSON Schema・検証・ウィジェットカタログ・ドキュメント操作コマンド
 │  ├─ codegen/     中間表現・C++/Python エミッタ・マーカー区間のマージ
